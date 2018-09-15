@@ -9,9 +9,9 @@ public class LogicTasks_1 extends BaseTask {
 
         while (true){
             // NOTE: uncomment necessary task and run
-//            LogicTasks_1.arrayRotation();
-//            LogicTasks_1.restoreArray();
-//            LogicTasks_1.ranges();
+//            arrayRotation();
+//            restoreArray();
+//            ranges();
         }
     }
 

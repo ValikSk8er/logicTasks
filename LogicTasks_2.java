@@ -8,9 +8,9 @@ public class LogicTasks_2 extends BaseTask {
 
         while (true){
             // NOTE: uncomment necessary task and run
-//            LogicTasks_2.palindrome();
-//            LogicTasks_2.stringPartReverse();
-//            LogicTasks_2.frequency();
+//            palindrome();
+//            stringPartReverse();
+//            frequency();
         }
     }
 
